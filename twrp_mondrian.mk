@@ -27,8 +27,8 @@ $(call inherit-product, device/xiaomi/mondrian/device.mk)
 
 PRODUCT_DEVICE := mondrian
 PRODUCT_NAME := twrp_mondrian
-PRODUCT_BRAND := Redmi
-PRODUCT_MODEL := 23013RK75C
+PRODUCT_BRAND := xiaomi
+PRODUCT_MODEL := xiaomi mondrian
 PRODUCT_MANUFACTURER := Xiaomi
 #PRODUCT_RELEASE_NAME := Redmi K60
 
