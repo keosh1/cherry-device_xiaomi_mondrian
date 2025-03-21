@@ -57,6 +57,3 @@
 
 # Removable storage
 /usb_otg               auto    /dev/block/sdg1                               /dev/block/sdg4      flags=fsflags=utf8;display="USB-Storage";storage;wipeingui;removable
-
-# Logical partitions
-/system_image   emmc    /dev/block/mapper/system					    flags=slotselect
